@@ -4,7 +4,6 @@ for ((i=0; i<=${#num[*]}; i++))
 do
 	if [ $(($i%2)) -eq 0 ] && [ $i != 6 ]
 
-		if [ $i != 6 ]
 	then
 		echo "$i is even"
 	fi
