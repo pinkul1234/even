@@ -7,6 +7,5 @@ do
 	then
 		echo "$i is even"
 	fi
-		fi
 done
 
